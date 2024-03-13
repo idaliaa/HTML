@@ -1,0 +1,142 @@
+h1{
+    font-family: Tahoma;
+    font-size: 30px;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 26px;
+    margin-bottom: 0;
+}
+.p1{
+    font-family: Arial;
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 6px;
+}
+
+h3{
+    font-family: Verdana;
+    margin-bottom: 0;
+}
+.p2{
+    margin-top: 3px;
+    font-family: Verdana;
+    color: rgb(100, 100, 100);
+    font-size: 16px;
+}
+.p3{
+    font-family: Verdana;
+    font-size: 16px;
+}
+.started-button{
+    background-color: green;
+    padding: 8px 16px;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    font-family: Verdana;
+}
+
+h4{
+    font-family: Arial;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.p4{
+    font-family: Arial;
+    text-align: center;
+    
+}
+.p5{
+    font-family: Arial;
+    color: rgb(58, 108, 199);
+    text-align: center;
+}
+
+/* 5e */
+.new{
+    font-size: 16px; 
+    color: rgb(245, 99, 0); 
+    margin-bottom: 10px;
+    font-weight: 200;
+}
+.macbook{
+    font-family: Arial;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.supercharged{
+    margin-top: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.price{
+    margin-top: 10px;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+}
+.buy-button{
+    font-family: Arial;
+    padding: 7px 15px;
+    border-radius: 30px;
+    background-color: rgb(0, 113, 227);
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 325px;
+}
+
+/* 5f */
+.p5f-1{
+    font-family: Arial;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.p5f-2{
+    margin-top: 5px;
+    font-family: Arial;
+    font-size: 16px;
+    color: rgb(24, 128, 56);
+    margin-bottom: 0;
+}
+.p5f-3{
+    margin-top: 8px;
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+    font-size: 16px;
+}
+
+/* 5g */
+.email{
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+.hours{
+    color: rgb(100, 100, 100);
+}
+.devop{
+    margin-top: 8px;
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 25px;
+}
+.outline{
+    font-family: Arial;
+    font-size: 18px;
+    line-height: 25px;
+}
