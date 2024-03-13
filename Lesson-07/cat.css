@@ -1,0 +1,98 @@
+.cat1{
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.cat2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 20px;
+}
+.cat3{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 100%;
+    object-position: center;
+}
+
+.textbox{
+    padding: 12px 15px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: rgb(200, 200, 200);
+    color: rgb(100, 100, 100);
+    font-size: 16px;
+}
+
+.google-search{
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    border-width: 1px;
+    padding: 12px 15px; 
+    width: 500px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.email-title, .join-privacy{
+    font-size: 16px;
+    color: rgb(100, 100, 100);
+    font-family: Arial;
+}
+.text-box{
+    font-family: Arial;
+    width: 400px;
+    padding: 7px 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(100, 100, 100);
+    border-radius: 5px;
+    font-size: 16px;
+}
+.agree-join-button{
+    font-family: Arial;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    width: 400px;
+}
+
+.cat4{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 100%;
+    object-position: center;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.question-textbox{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    border: none;
+    font-size: 18px;
+    vertical-align: middle;
+
+}
+.tweet-button{
+    padding: 8px 16px;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+}
