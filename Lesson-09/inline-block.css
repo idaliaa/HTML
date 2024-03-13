@@ -1,0 +1,91 @@
+.cat-container{
+    padding: 12px 12px;
+    width: 450px;
+    border-radius: 6px;
+    box-shadow: 0 1px 6px rgb(0, 0, 0, 0.5);
+    margin-bottom: 50px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.question-textbox{
+    vertical-align: middle;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    width: 300px;
+}
+.tweet-button{
+    padding: 8px 16px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(29, 155, 240);
+    color: white;
+    font-size: 16px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.cat1-container{
+    width: 200px;
+    box-shadow: 0 0px 5px rgb(0, 0, 0, 0.3);
+    display: inline-block;
+}
+.profile-picture{
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 12px;
+}
+.name{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.mutual-friends{
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+    margin-top: 5px;
+    font-size: 15px;
+    margin-left: 8px;
+}
+.add-button{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(24, 119, 242);
+    border: none;
+    border-radius: 4px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.cat2-container{
+    width: 200px;
+    box-shadow: 0 0px 5px rgb(0, 0, 0, 0.3);
+    margin-right: 10px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.dog-container{
+    width: 200px;
+    box-shadow: 0 0px 5px rgb(0, 0, 0, 0.3);
+    display: inline-block;
+}
+.container{
+    display: flex;
+    margin-right: 10px;
+}
