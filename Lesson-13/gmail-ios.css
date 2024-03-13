@@ -1,0 +1,51 @@
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+body{
+    font-family: Arial;
+}
+.inbox-title{
+    color: rgb(100, 100, 100);
+    font-size: 15px;
+}
+.titel{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.promotion{
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 4px;
+}
+.message{
+    font-size: 14px;
+    color: rgb(150, 150, 150);
+}
+.time{
+    font-size: 15px;
+    color: rgb(150, 150, 150);
+}
+.image{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.container{
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
+    padding: 12px 15px;
+    width: 430px;
+}
+.sub-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+
