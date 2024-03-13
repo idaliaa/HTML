@@ -1,0 +1,65 @@
+.profile-container{
+    width: 200px;
+    box-shadow: 0 0px 5px rgba(0, 0, 0, 0.3);
+    vertical-align: top;
+}
+.profile-picture{
+    width: 200px;
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 12px;
+}
+.name{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.add-button{
+    padding: 10px 20px;
+    color: white;
+    background-color: rgb(24, 119, 242);
+    border: none;
+    border-radius: 4px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+
+.mutual-friends{
+    font-family: Arial;
+    color: rgb(100, 100, 100);
+    margin-top: 5px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.img-mutual-friends{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    object-fit: cover;
+    margin-left: 8px;
+}
+.sub-container{
+    display: grid;
+    grid-template-columns: 35px 1fr;
+    align-items: center;
+    margin-left: 0px;
+    margin-bottom: 10px;
+
+}
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 10px;
+}
+/*
+Replacing inline-block with column grid
+And vertical align with align-item center
+*/
