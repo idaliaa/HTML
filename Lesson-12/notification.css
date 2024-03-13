@@ -1,0 +1,28 @@
+.container{
+    border-style: solid;
+    padding: 5px 10px;
+    border-radius: 8px;
+    border-color: rgb(200, 200, 200);
+    font-family: Arial;
+    font-size: 18px;
+    border-width: 1px;
+    width: 400px;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+}
+.notification{
+    font-family: Arial;
+    background-color: rgb(49, 109, 245);
+    border: solid;
+    border-radius: 20px;
+    padding: 3px 10px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
