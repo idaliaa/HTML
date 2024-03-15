@@ -1,0 +1,40 @@
+body{
+    height: 1000px;
+}
+.product-container{
+    position: relative;
+    display: inline-block;
+}
+.product-image{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+}
+.discount{
+    padding: 8px 12px;
+    background-color: black;
+    border: none;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 0;
+    font-family: Arial;
+}
+.bottom-container{
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+.add-button{
+    padding: 10px 15px;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}

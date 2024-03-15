@@ -1,0 +1,58 @@
+body {
+    height: 3000px;
+}
+.close-button-1{
+    font-size: 20px;
+    border-radius: 100%;
+    border: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    font-family: Arial;
+    top: 15px;
+    right: 15px;
+}
+.close-button{
+    font-size: 20px;
+    border-radius: 100%;
+    border: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    height: 35px;
+    font-family: Arial;
+    top: -15px;
+    left: -15px;
+}
+
+.bottom-right{
+    position: fixed;
+    width: 320px;
+    height: 180px;
+    background-color: rgb(100, 100, 100);
+    bottom: 20px;
+    right: 20px;
+}
+
+.time-button{
+    padding: 4px 6px;
+    background-color: black;
+    position: absolute;
+    color: white;
+    right: 10px;
+    bottom: 10px;
+    border: none;
+    font-family: Arial;
+    font-size: 18px;
+    padding-top: 5px 10px;
+
+}
